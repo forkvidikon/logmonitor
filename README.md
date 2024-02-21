@@ -6,7 +6,7 @@ Loki + Grafana + Fluent-bit
 
 Требуется указать права для каталога Loki:
 
-    chown -R 10001:10001 
+    chown -R 10001:10001 lokidata
 
 # Как работать
 
